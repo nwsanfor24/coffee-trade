@@ -12,4 +12,6 @@ class Coffee < ApplicationRecord
     end
 
     test
+
+    this is another test
 end
