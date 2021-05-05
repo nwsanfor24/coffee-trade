@@ -10,4 +10,6 @@ class Coffee < ApplicationRecord
     def avg_score
         reviews.average(:score).round(2).to_f
     end
+
+    test
 end
