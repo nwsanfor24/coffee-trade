@@ -8,27 +8,27 @@
 coffees = Coffee.create([
     {
       name: "Alma Coffee",
-      image_url: "https://i.ibb.co/Kh59Fjs/alma-coffee.png"
+      image_url: "alma_coffee.png"
     },
     {
       name: "Atomic Coffee",
-      image_url: "https://i.ibb.co/HNr9vJW/atomic-coffee.jpg"
+      image_url: "atomic_coffee.jpg"
     },
     {
       name: "Burundi Coffee",
-      image_url: "https://i.ibb.co/BKWT8Hd/burundi-coffee.png"
+      image_url: "burundi_coffee.png"
     },
     {
       name: "Funky Chicken",
-      image_url: "https://i.ibb.co/SmQGN4G/funky-chicken-coffee.png"
+      image_url: "funky_chicken_coffee.png"
     },
     {
       name: "Palmera Coffee",
-      image_url: "https://i.ibb.co/mNCZ5s3/palmera-coffee.jpg"
+      image_url: "palmera_coffee.jpg"
     },
     {
       name: "Portland Coffee",
-      image_url: "https://i.ibb.co/k9LRJtk/portland-coffee.png"
+      image_url: "portland_coffee.png"
     }
 ])
 
